@@ -10,7 +10,8 @@ class Arreglo
         void agregar(T elem, int pos);
         T devolver(int pos) const;
     private:
-        int * ar;
+        T * ar;
+        int tamanio;
 };
 
 #endif // ARREGLO_H

@@ -1,9 +1,12 @@
 # depslib dependency file v1.0
-1569545643 source:/home/valentin/Desktop/LABORATORIO/main.cpp
+1569548162 source:/home/valentin/Desktop/LABORATORIO/main.cpp
 	<iostream>
-
-1569546633 source:/home/valentin/Desktop/LABORATORIO/src/Arreglo.cpp
 	"Arreglo.h"
 
-1569546259 /home/valentin/Desktop/LABORATORIO/include/Arreglo.h
+1569548381 source:/home/valentin/Desktop/LABORATORIO/src/Arreglo.cpp
+	"Arreglo.h"
+	<iostream>
+	<assert.h>
+
+1569548317 /home/valentin/Desktop/LABORATORIO/include/Arreglo.h
 
