@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1569545643 source:/home/valentin/Desktop/LABORATORIO/main.cpp
+	<iostream>
+
+1569546633 source:/home/valentin/Desktop/LABORATORIO/src/Arreglo.cpp
+	"Arreglo.h"
+
+1569546259 /home/valentin/Desktop/LABORATORIO/include/Arreglo.h
+
