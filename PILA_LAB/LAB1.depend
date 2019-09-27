@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1569604385 source:/home/valentin/Desktop/LAB1/main.cpp
+	<iostream>
+	"Pila.h"
+
+1569604537 source:/home/valentin/Desktop/LAB1/src/Pila.cpp
+	"Pila.h"
+
+1569603367 /home/valentin/Desktop/LAB1/include/Pila.h
+
