@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1571780809 source:/home/valentin/Desktop/LABORATORIO/ARCHIVOS/MANEJO_ARCHIVOS/src/Archivo.cpp
+	"Archivo.h"
+
+1571845298 source:/home/valentin/Desktop/LABORATORIO/ARCHIVOS/MANEJO_ARCHIVOS/main.cpp
+	<string>
+	<iostream>
+	<vector>
+	"Archivo.h"
+
+1571868922 source:/home/valentin/Desktop/LABORATORIO/ARCHIVOS/MANEJO_ARCHIVOS/Archivo.cpp
+	"Archivo.h"
+
+1571845354 /home/valentin/Desktop/LABORATORIO/ARCHIVOS/MANEJO_ARCHIVOS/Archivo.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<assert.h>
+
