@@ -16,8 +16,8 @@ Archivo::Archivo(const string & path){
     arch.close();
 }
 
-vector<string> * Archivo::getData() const{
-    return new vector<string>(this->data);
+vector<string> Archivo::getData() const{
+    return vector<string>(this->data);
 }
 Archivo::~Archivo()
 {

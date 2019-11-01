@@ -12,7 +12,7 @@ class Archivo
 {
     public:
         Archivo(const string & path);
-        vector<string> * getData() const;
+        vector<string> getData() const;
         ~Archivo();
     private:
         // use vector to store the data in the file
